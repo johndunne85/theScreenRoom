@@ -1,0 +1,19 @@
+<div id="comment-text-box" *ngFor="let comment of filteredComments">
+  <div *ngIf="comment.id_movie == product.id">
+  <div id="commenter-name" >
+    by {{comment.commenter}}
+  </div>
+  <div class='col-md-8'>
+     <pm-star [rating]='comment.star_rating'>
+  </pm-star>
+  </div>
+<div id="comment-header">
+  <b>{{comment.comment_title}} </b>
+  </div>
+<div>
+<div class='col-md-8' >{{comment.comment}}</div>
+</div>
+
+</div>
+
+</div>

@@ -1,0 +1,79 @@
+<div class='card'>
+  <div class='card-header'>
+    {{pageTitle}}
+  </div>
+  <div class='card-body' style="background-color: black">
+    <div class='row'>
+      <div class='col-md-2' style="color:white">Filter by:</div>
+      <div class='col-md-4'>
+        <input type='text'
+
+               [(ngModel)]='listFilter' />
+      </div>
+    </div>
+    <div class='row'
+         *ngIf='listFilter'>
+      <div class='col-md-6'
+      style="color: white">
+        <h4>Filtered by: {{listFilter}}</h4>
+      </div>
+    </div>
+    <div class='table-responsive'>
+      <table class='table'
+             *ngIf='products && products.length'>
+        <thead>
+          <tr>
+            <th>
+          
+            </th>
+            <th style="color: white">Name</th>
+            <th style="color: white">Genre</th>
+            <th style="color: white">Year</th>
+            <th style="color: white">Actors</th>
+
+            <th style="color: white">Director</th>
+
+
+            <th style="color: white">Rating</th>
+
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor='let product of filteredProducts'>
+            <td>
+              <img
+              [routerLink]="['/products', product.id]"
+              *ngIf=true
+                   [src]='product.imageUrl'
+
+                   [style.width.px]='190'
+                   [style.margin.px]='imageMargin'>
+            </td>
+            <td >
+              <a [routerLink]="['/products', product.id]">
+                {{ product.name }}
+              </a>
+            </td>
+            <td style="color: white">{{ product.genre }}</td>
+            <td style="color: white">{{ product.year }}</td>
+            <td style="color: white">{{ product.actors }}</td>
+
+
+            <td style="color: white">{{ product.director }}</td>
+
+
+            <td>
+              <pm-star [rating]='product.rating'
+                       (ratingClicked)='onRatingClicked($event)'>
+              </pm-star>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+<div *ngIf='errorMessage'
+     class='alert alert-danger'>
+  Error: {{ errorMessage }}
+</div>

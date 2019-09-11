@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name":"Gladiator",
+    "genre":"Action",
+    "year":2000,
+    "actors":"Russell Crowe,Joaquin Phoenix,Connie Nielsen",
+
+    "director":"Ridley Scott",
+    "studio":"Universal Pictures",
+    "gross":"460 million",
+    "imageUrl": "assets/images/gladiator.jpg",
+    "youtube": "https://www.youtube.com/embed/owK1qxDselE"
+  },
+  {
+    "id": 2,
+    "name":"Dark Knight",
+    "genre":"Action",
+    "year": 2008,
+    "actors":"Christian Bale,Michael Caine,Heath Ledger",
+    "director":"Christopher Nolan",
+    "studio":"Warner Bros",
+    "gross":"1 billion" ,
+    "imageUrl": "assets/images/darkknight.png",
+    "youtube": "owK1qxDselE"
+  },{
+    "id": 3,
+    "name":"On the Waterfront",
+    "genre":"Drama",
+    "year":1954,
+    "actors":"Marlon Brando,Eva Marie Saint,Karl Malden",
+
+    "director":"Elia Kazan",
+    "studio":"Columbia Pictures",
+    "gross":"9 million",
+    "imageUrl": "assets/images/onthewaterfront.jpg",
+    "youtube": "owK1qxDselE"
+  },
+  {
+    "id": 4,
+    "name":"Proof of Life",
+    "genre":"Action",
+    "year":2000,
+    "actors":"Russell Crowe,Meg Ryan,David Caruso",
+    "director":"Taylor Hackford",
+    "studio":"Warner Bros",
+    "gross":"62 million",
+    "imageUrl": "assets/images/proofoflife.jpg"
+
+  }
+  ,{
+    "id": 5,
+    "name":"The Beach",
+    "genre":"Drama",
+    "year":2000,
+    "actors":"Leonardo DiCaprio,Tilda Swinton,Virginie Ledoyen",
+    "director":"Danny Boyle",
+    "studio":"20th Century Fox",
+    "gross":"144 million",
+    "imageUrl": "assets/images/thebeach.jpg"
+
+  }
+  ,{
+    "id": 6,
+    "name":"Jurassic Park",
+    "genre":"Action",
+    "year":1993,
+    "actors":"Sam Neil,Laura Dern,Jeff Goldblum",
+    "director":"Steven Spielberg",
+    "studio":"Universal Pictures",
+    "gross":"1 billion",
+    "imageUrl": "assets/images/jurassicpark.jpg"
+
+  },{
+    "id": 7,
+    "name":"Finding Nemo",
+    "genre":"Animation",
+    "year":2003,
+    "actors":"Albert Brooks, Ellen DeGeneres,Willem Dafoe",
+    "director":"Andrew Stanton",
+    "studio":"Walt Disney",
+    "gross":"940 million",
+    "imageUrl": "assets/images/findingnemo.jpg"
+
+  }
+  ,{
+    "id": 8,
+    "name":"The English Patient",
+    "genre":"Drama",
+    "year":1996,
+    "actors":"Ralph Fiennes,Juliette Binoche,Willem Dafoe",
+    "director":"Anthony Minghella",
+    "studio":"Miramax Films",
+    "gross":"232 million",
+    "imageUrl": "assets/images/theenglishpatient.png"
+  }
+
+]

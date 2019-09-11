@@ -1,0 +1,56 @@
+ [
+  {
+    "id" : 1,
+    "id_movie": 6,
+    "commenter": "John Dunne",
+    "comment_title": "Great Movie",
+    "star_rating": 3,
+    "comment":"Leo was fantastic in the Beach.",
+    "overall_rating": 4
+  },
+  {
+    "id" : 2,
+    "id_movie": 2,
+    "commenter": "Aisling Dunne",
+    "comment_title": "OK Movie",
+    "star_rating": 2,
+    "comment":"The Dark Knight is a brilliant movie.",
+    "overall_rating": 3
+  },
+  {
+    "id" : 2,
+    "id_movie": 9,
+    "commenter": "Erica Crothers",
+    "comment_title": "Cool Movie",
+    "star_rating": 4,
+    "comment":"Hadn't seen this since it was first out in the early 90s, but is still such a well made film that it would stand alongside films of 2019 very well, and would probably still pick up most if not all of the Oscars that it did when it was first released. A good story well told and worth watching again, even if you do know how it ends!",
+    "overall_rating": 3
+  },
+  {
+    "id" : 3,
+    "id_movie": 6,
+    "commenter": "Eileen Dunne",
+    "comment_title": "Bad Movie",
+    "star_rating": 5,
+    "comment":"The Beach is about Thiland.",
+    "overall_rating": 1
+  },
+  {
+    "id" : 2,
+    "id_movie": 9,
+    "commenter": "Denise Lee",
+    "comment_title": "ok moive",
+    "star_rating": 2,
+    "comment":"Film is magnificent but the Blu-ray quality is shockingly bad. Equivalent to a mediocre DVD - grainy (especially in shadows), not sharp, the sound isn't terribly crisp either. VERY disappointed. Missed the 'window' for returning this, otherwise I certainly would've.",
+    "overall_rating": 2
+  },
+  {
+    "id" : 4,
+    "id_movie": 6,
+    "commenter": "Liam Dunne",
+    "comment_title": "Average Movie",
+    "star_rating": 3,
+    "comment":"The Beach is a fantastic movie.",
+    "overall_rating": 4
+  }
+]

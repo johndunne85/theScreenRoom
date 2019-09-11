@@ -1,0 +1,186 @@
+ [
+  {
+    "id": 1,
+    "name":"Gladiator",
+    "genre":"Action",
+    "year":2000,
+    "actors":"Russell Crowe, Joaquin Phoenix, Connie Nielsen",
+    "rating": 4.5,
+    "director":"Ridley Scott",
+    "studio":"Universal Pictures",
+    "gross":"460 million",
+    "imageUrl": "assets/images/gladiator.jpg",
+    "youtube": "https://www.youtube.com/embed/owK1qxDselE"
+  },
+  {
+    "id": 2,
+    "name":"Dark Knight",
+    "genre":"Action",
+    "year": 2008,
+    "actors":"Christian Bale, Michael Caine, Heath Ledger",
+    "rating":4.7,
+    "director":"Christopher Nolan",
+    "studio":"Warner Bros",
+    "gross":"1 billion" ,
+    "imageUrl": "assets/images/darkknight.png",
+    "youtube": "owK1qxDselE"
+  },{
+    "id": 3,
+    "name":"Kill Bill",
+    "genre":"Action",
+    "year": 2003,
+    "actors":"Uma Thurman, Lucy Liu, Vivica A. Fox",
+    "rating":4.1,
+    "director":"Quentin Tarantino",
+    "studio":"Miramax",
+    "gross":"180 million",
+    "imageUrl": "assets/images/killbill.jpg"
+
+  },{
+    "id": 4,
+    "name":"On the Waterfront",
+    "genre":"Drama",
+    "year": 1954,
+    "actors":"Marlon Brando, Eva Marie Saint, Karl Malden",
+    "rating":4.3,
+    "director":"Elia Kazan",
+    "studio":"Columbia Pictures",
+    "gross":"9 million",
+    "imageUrl": "assets/images/onthewaterfront.jpg",
+    "youtube": "owK1qxDselE"
+  },
+  {
+    "id": 5,
+    "name":"Proof of Life",
+    "genre":"Action",
+    "year":2000,
+    "actors":"Russell Crowe, Meg Ryan, David Caruso",
+    "rating":2.6,
+    "director":"Taylor Hackford",
+    "studio":"Warner Bros",
+    "gross":"62 million",
+    "imageUrl": "assets/images/proofoflife.jpg"
+
+  }
+  ,{
+    "id": 6,
+    "name":"The Beach",
+    "genre":"Drama",
+    "year":2000,
+    "actors":"Leonardo DiCaprio, Tilda Swinton, Virginie Ledoyen",
+    "rating":4.6,
+    "director":"Danny Boyle",
+    "studio":"20th Century Fox",
+    "gross":"144 million",
+    "imageUrl": "assets/images/thebeach.jpg"
+
+  }
+  ,{
+    "id": 7,
+    "name":"Jurassic Park",
+    "genre":"Action",
+    "year":1993,
+    "actors":"Sam Neil, Laura Dern, Jeff Goldblum",
+    "rating":3.4,
+    "director":"Steven Spielberg",
+    "studio":"Universal Pictures",
+    "gross":"1 billion",
+    "imageUrl": "assets/images/jurassicpark.jpg"
+
+  },{
+    "id": 8,
+    "name":"Finding Nemo",
+    "genre":"Animation",
+    "year":2003,
+    "actors":"Albert Brooks, Ellen DeGeneres, Willem Dafoe",
+    "rating":4.2,
+    "director":"Andrew Stanton",
+    "studio":"Walt Disney",
+    "gross":"940 million",
+    "imageUrl": "assets/images/findingnemo.jpg"
+
+  }
+  ,{
+    "id": 9,
+    "name":"The English Patient",
+    "genre":"Drama",
+    "year":1996,
+    "actors":"Ralph Fiennes, Juliette Binoche, Willem Dafoe",
+    "rating": 3.8,
+    "director":"Anthony Minghella",
+    "studio":"Miramax Films",
+    "gross":"232 million",
+    "imageUrl": "assets/images/theenglishpatient.png"
+  },{
+    "id": 10,
+    "name":"Heat",
+    "genre":"Action",
+    "year":1995,
+    "actors":"Robert De Niro, Al Pacino, Val Kilmer",
+    "rating": 4.2,
+    "director":"Michael Mann",
+    "studio":"Warner Bros",
+    "gross":"60 million",
+    "imageUrl": "assets/images/heat.jpg"
+  }
+  ,{
+    "id": 11,
+    "name":"Avengers",
+    "genre":"Action",
+    "year":2012,
+    "actors":"Robert Downey Jr, Chris Hemsworth, Scarlett Johansson",
+    "rating": 4.0,
+    "director":"Joss Whedon",
+    "studio":"Walt Disney",
+    "gross":"1.51 bilion",
+    "imageUrl": "assets/images/avengers.jpg"
+  }
+  ,{
+    "id": 12,
+    "name":"Cast Away",
+    "genre":"Drama",
+    "year":2000,
+    "actors":"Tom Hanks",
+    "rating": 3.5,
+    "director":"Robert Zemeckis",
+    "studio":"20th Century Fox",
+    "gross":"429 million",
+    "imageUrl": "assets/images/castaway.jpg"
+  }
+  ,{
+    "id": 13,
+    "name":"Charlies Angels",
+    "genre":"Action",
+    "year":2000,
+    "actors":"Cameron Diaz, Drew Barrymore, Lucy Liu",
+    "rating": 3.3,
+    "director":"McG",
+    "studio":"Columbia Pictures",
+    "gross":"264 million",
+    "imageUrl": "assets/images/charliesangels.jpg"
+  }
+  ,{
+    "id": 14,
+    "name":"Up",
+    "genre":"Animation",
+    "year":2009,
+    "actors":"Ed Asner, Christopher Plummer, Jordan Nagai",
+    "rating": 3.8,
+    "director":"Pete Docter",
+    "studio":"Walt Disney Studios",
+    "gross":"735 million",
+    "imageUrl": "assets/images/up.jpg"
+  },{
+    "id": 15,
+    "name":"The Ring",
+    "genre":"Horror",
+    "year":2002,
+    "actors":"Naomi Watts, Martin Henderson, Brian Cox",
+    "rating": 3.4,
+    "director":"Gore Verbinski",
+    "studio":"DreamWorks Pictures",
+    "gross":"249 million",
+    "imageUrl": "assets/images/thering.jpg"
+  }
+
+]

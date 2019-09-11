@@ -1,0 +1,36 @@
+/* #comment-text-box{
+  padding-left: 1%;
+  margin-left: 22%;
+
+}
+
+#comment-header{
+  padding-left:15px;
+}
+
+#commenter-name{
+  padding-left:15px;
+} */
+
+.buttonComment{
+  border-radius: 8px;
+  background-color: #337AB7;
+  color:white;
+  padding: 14px;
+  border: none;
+}
+
+#comment-text-box{
+  padding-left: 1%;
+  margin-left: 22%;
+  margin-bottom: 9px;
+
+}
+
+#comment-header{
+  padding-left:15px;
+}
+
+#commenter-name{
+  padding-left:15px;
+}
